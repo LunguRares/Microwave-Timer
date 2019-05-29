@@ -1,2 +1,2 @@
 # Microwave-Timer
-![](Microwave Timer.gif)
+![Microwave_Timer](Microwave Timer.gif)
